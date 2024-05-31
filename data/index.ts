@@ -1,7 +1,7 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    { name: "Testimonials", link: "#testimonials" },
+    { name: "Inspiration", link: "#inspiration" },
     { name: "Contact", link: "#contact" },
   ];
   
@@ -104,7 +104,7 @@ export const navItems = [
     },
   ];
   
-  export const testimonials = [
+  export const inspiration = [
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
